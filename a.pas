@@ -1,1 +1,3 @@
-hello
+begin
+	writeln('HELL!!!!');
+end.
